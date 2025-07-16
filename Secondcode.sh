@@ -1,6 +1,6 @@
 #!/bin/bash
 
-a=505
-b=100
+a=5056
+b=1003
 
 echo sum

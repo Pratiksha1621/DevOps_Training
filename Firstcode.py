@@ -1,5 +1,5 @@
-a = 55
-b = 6 
-c = 77
+a = 556
+b = 63 
+c = 776
 sum = a + b + c
 print "The Sum of three numbers is = " sum 
