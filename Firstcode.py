@@ -1,4 +1,5 @@
 a = 55
 b = 6 
-sum = a + b
-print "The Sum of two numbers is = " sum 
+c = 77
+sum = a + b + c
+print "The Sum of three numbers is = " sum 

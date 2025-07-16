@@ -1,6 +1,6 @@
 #!/bin/bash
 
-a=5
+a=50
 b=10
 
 echo sum
